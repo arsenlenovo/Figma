@@ -65,6 +65,7 @@ header {
 .welcom {
   color: #D67E35;
   padding-top: 80px;
+  text-transform: inherit;
 }
 
 
