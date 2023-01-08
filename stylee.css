@@ -91,5 +91,6 @@ h6 {
     height: 100px;
     display: flex;
     text-align: center;
+    padding-left: 60px;
   }
 }
