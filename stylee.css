@@ -89,5 +89,6 @@ h6 {
   .container-1 {
     width: 0;
     height: 100px;
+    display: flex;
   }
 }
