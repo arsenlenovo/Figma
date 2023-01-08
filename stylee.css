@@ -70,8 +70,10 @@ header {
   font-weight: 400;
   font-size: 40px;
 }
-
 .bottom-words {
   font-size: 70px;
+}
+h6 {
+  color: #fff;
 }
 
