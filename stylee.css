@@ -94,11 +94,6 @@ h6 {
     padding-left: 60px;
   }
   .bt {
-    display: flex;
-    height: 50vh;
-    justify-content: space-around;
-    align-items: center;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-right: 150px;
   }
 }
