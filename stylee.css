@@ -95,5 +95,6 @@ h6 {
   }
   .bt {
     display: flex;
+    height: 50vh;
   }
 }
