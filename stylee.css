@@ -6,6 +6,9 @@ body,html {
   padding: 0;
 }
 @media (max-width: 600px) {
-  
+  body,
+  html {
+    
+  }
 }
 
