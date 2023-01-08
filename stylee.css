@@ -85,4 +85,6 @@ h6 {
   background-color: #FF7400;
   color: #fff;
 }
-
+@media (max-width: 600px) {
+  
+}
