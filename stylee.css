@@ -118,5 +118,7 @@ h6 {
   transition: 700ms;
 }
 @media (max-width: 600px) {
-  
+  .block-1 {
+    
+  }
 }
