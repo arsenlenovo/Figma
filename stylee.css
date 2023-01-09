@@ -233,4 +233,5 @@ h6 {
   font-family: Times, serif;
   font-size: 26px;
   margin-left: 20px;
+  display: flex;
 }
