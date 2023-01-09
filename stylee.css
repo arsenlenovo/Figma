@@ -120,5 +120,6 @@ h6 {
 @media (max-width: 600px) {
   .block-1 {
     display: block;
+    height: fit-content;
   }
 }
