@@ -219,4 +219,5 @@ h6 {
 }
 .burgers {
   display: flex;
+  justify-content: center;
 }
