@@ -112,4 +112,5 @@ h6 {
   background-color: #fff;
   height: fit-content;
   width: fit-content;
+  max-width: 37ch;
 }
