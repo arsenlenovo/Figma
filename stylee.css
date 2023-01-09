@@ -117,3 +117,6 @@ h6 {
   text-align: center;
   transition: 700ms;
 }
+@media (max-width: 600px) {
+  
+}
