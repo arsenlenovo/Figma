@@ -173,4 +173,5 @@ h6 {
 .block-holder {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
