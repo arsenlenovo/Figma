@@ -151,3 +151,6 @@ h6 {
 .orange-text {
   color: #D67E34;
 }
+@media (max-width: 600px) {
+  
+}
