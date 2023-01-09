@@ -135,4 +135,5 @@ h6 {
 
 .block-2 {
   display: flex;
+  flex-wrap: wrap;
 }
