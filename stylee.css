@@ -196,4 +196,9 @@ h6 {
   .block-holder {
     display: block;
   }
+  .left-title,
+  .left-text,
+  .second-button {
+    
+  }
 }
