@@ -155,5 +155,6 @@ h6 {
   .images {
     display: block;
     margin-right: auto;
+    margin-left: auto;
   }
 }
