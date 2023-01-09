@@ -223,4 +223,5 @@ h6 {
 }
 .burger-item {
   display: flex;
+  align-items: center;
 }
