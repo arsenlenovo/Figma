@@ -194,6 +194,6 @@ h6 {
 }
 @media (max-width: 600px) {
   .block-holder {
-    
+    display: block;
   }
 }
