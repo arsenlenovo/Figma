@@ -343,3 +343,23 @@ main {
     margin-right: 0;
   }
 }
+.Our-chef {
+  text-align: center;
+  padding-top: 40px;
+}
+.cook-content {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 80px;
+}
+@media (max-width: 700px) {
+  .cook-content {
+    display: block;
+  }
+  .cook-content img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+  }
+}
