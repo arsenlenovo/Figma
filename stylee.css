@@ -299,3 +299,12 @@ main {
     display: none;
   }
 }
+.little-div {
+  background-color: #e5e5e5;
+}
+.inside-div {
+  padding: 70px;
+  text-align: center;
+  width: 57%;
+  margin-left: 20%;
+}
