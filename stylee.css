@@ -266,3 +266,36 @@ main {
   text-align: center;
   margin-left: 30px;
 }
+.cart-separate {
+  background-color: #fff;
+  padding: 60px;
+  width: fit-content;
+  height: fit-content;
+  text-align: center;
+  margin-left: 30px;
+}
+.Our-menu {
+  color: #fff;
+  font-family: Times, serif;
+  font-size: 45px;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 100px;
+}
+.three-button {
+  background-color: #D67E34;
+  color: #fff;
+  border-color: #fff;
+  padding: 5px 30px;
+}
+@media (max-width: 600px) {
+  .inside-the-main {
+    display: block;
+  }
+  .cart {
+    margin-left: 60px;
+  }
+  .cart-separate {
+    display: none;
+  }
+}
