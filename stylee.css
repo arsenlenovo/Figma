@@ -113,4 +113,5 @@ h6 {
   height: fit-content;
   width: fit-content;
   max-width: 37ch;
+  box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
 }
