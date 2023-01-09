@@ -243,4 +243,7 @@ h6 {
   .burger-item {
     margin-top: 60px;
   }
+  .dash {
+    display: none;
+  }
 }
