@@ -308,3 +308,20 @@ main {
   width: 57%;
   margin-left: 20%;
 }
+.h1-galery {
+  text-align: center;
+  padding-top: 70px;
+  margin-bottom: 20px;
+}
+.galery-content {
+  display: flex;
+  justify-content: center;
+}
+.galery-left {
+  margin-right: 20px;
+}
+.galery-down,.galery-up {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
