@@ -218,5 +218,5 @@ h6 {
   padding: 90px;
 }
 .burgers {
-  
+  display: flex;
 }
