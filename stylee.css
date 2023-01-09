@@ -153,6 +153,6 @@ h6 {
 }
 @media (max-width: 600px) {
   .images {
-    
+    display: block;
   }
 }
